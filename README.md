@@ -1,8 +1,7 @@
 # Online Shop
 
 # LIVE URL
-
-ll-tan-beetle-shoe.cyclic.app/
+https://ill-tan-beetle-shoe.cyclic.app/
 
 # Introduction
 Welcome to "Online Shop" this project is a full-stack application build using the Mern (MongoDB , Express.js, React.js, node.js) Stack. Our aim is to provide an online shoping platform for ordering different products.
